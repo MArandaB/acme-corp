@@ -1,0 +1,16 @@
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACME Servicios</title>
+    <link>/acme/</link>
+    <description>Recent content on ACME Servicios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Empresa)</managingEditor>
+    <webMaster>contact@example.org (Acme Empresa)</webMaster>
+    
+        <atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

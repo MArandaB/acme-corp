@@ -1,0 +1,9 @@
+{
+  "name": "ACME Servicios",
+  "short_name": "ACME Servicios",
+  "start_url": "/",
+  "scope": "/",
+  "theme_color": "#2d48e7",
+  "background_color": "#2d48e7",
+  "display": "standalone"
+}
