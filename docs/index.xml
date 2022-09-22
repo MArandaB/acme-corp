@@ -8,9 +8,73 @@
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Empresa)</managingEditor>
     <webMaster>contact@example.org (Acme Empresa)</webMaster>
+    <lastBuildDate>Thu, 22 Sep 2022 12:57:44 +0200</lastBuildDate>
     
         <atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+<title>Montevideo</title>
+<link>/acme/viajes/montevideo/</link>
+<pubDate>Thu, 22 Sep 2022 12:57:44 +0200</pubDate>
+      <author>contact@example.org (Acme Empresa)</author>
+      <guid>/acme/viajes/montevideo/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Tokyo</title>
+<link>/acme/viajes/tokyo/</link>
+<pubDate>Thu, 22 Sep 2022 12:57:20 +0200</pubDate>
+      <author>contact@example.org (Acme Empresa)</author>
+      <guid>/acme/viajes/tokyo/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Moscu</title>
+<link>/acme/viajes/moscu/</link>
+<pubDate>Wed, 21 Sep 2022 09:47:05 +0200</pubDate>
+      <author>contact@example.org (Acme Empresa)</author>
+      <guid>/acme/viajes/moscu/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Pirineo</title>
+<link>/acme/viajes/pirineo/</link>
+<pubDate>Wed, 21 Sep 2022 08:55:21 +0200</pubDate>
+      <author>contact@example.org (Acme Empresa)</author>
+      <guid>/acme/viajes/pirineo/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Curriculum</title>
+<link>/acme/curriculum/</link>
+<pubDate>Wed, 21 Sep 2022 08:53:51 +0200</pubDate>
+      <author>contact@example.org (Acme Empresa)</author>
+      <guid>/acme/curriculum/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>/acme/about/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Empresa)</author>
+      <guid>/acme/about/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>/acme/contacto/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Empresa)</author>
+      <guid>/acme/contacto/</guid>
+<description></description>
+<category></category></item>
     
   </channel>
 </rss>

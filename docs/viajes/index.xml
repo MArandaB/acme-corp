@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viajes on ACME Servicios</title>
+    <link>/acme/viajes/</link>
+    <description>Recent content in Viajes on ACME Servicios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Empresa)</managingEditor>
+    <webMaster>contact@example.org (Acme Empresa)</webMaster>
+    <lastBuildDate>Thu, 22 Sep 2022 12:57:44 +0200</lastBuildDate><atom:link href="/acme/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Montevideo</title>
+      <link>/acme/viajes/montevideo/</link>
+      <pubDate>Thu, 22 Sep 2022 12:57:44 +0200</pubDate>
+      <author>contact@example.org (Acme Empresa)</author>
+      <guid>/acme/viajes/montevideo/</guid>
+      <description>America Latina MONTEVIDEO
+Montevideo es la capital de Uruguay, uno de los países menos poblados de Sudamérica. País conocido por el mate (igual que Argentina).</description>
+    </item>
+    
+    <item>
+      <title>Tokyo</title>
+      <link>/acme/viajes/tokyo/</link>
+      <pubDate>Thu, 22 Sep 2022 12:57:20 +0200</pubDate>
+      <author>contact@example.org (Acme Empresa)</author>
+      <guid>/acme/viajes/tokyo/</guid>
+      <description>Otro viaje Esto es Tokyo
+La capital de Japón
+Es la ciudad más grande de Japón, cuenta con el área metropolitana más grande del mundo. Recibe muchos turistas cada año.</description>
+    </item>
+    
+    <item>
+      <title>Moscu</title>
+      <link>/acme/viajes/moscu/</link>
+      <pubDate>Wed, 21 Sep 2022 09:47:05 +0200</pubDate>
+      <author>contact@example.org (Acme Empresa)</author>
+      <guid>/acme/viajes/moscu/</guid>
+      <description>Moscú Aquí está Moscú
+Es la capital de Rusia
+Y de la extinta Unión soviética</description>
+    </item>
+    
+    <item>
+      <title>Pirineo</title>
+      <link>/acme/viajes/pirineo/</link>
+      <pubDate>Wed, 21 Sep 2022 08:55:21 +0200</pubDate>
+      <author>contact@example.org (Acme Empresa)</author>
+      <guid>/acme/viajes/pirineo/</guid>
+      <description>Viaje Esta es una foto de los Pirineos
+Llamados en español los «Pirineos», también se hace referencia a ellos como el «Pirineo», que sería como preferirían denominar sus habitantes al referirse a una parte o región de estos. En otras lenguas de la zona existen diversos endotopónimos para denominar a esta cordillera: «Pyrénées» en francés, «Pirineus» o «Pirineu» en catalán, «Pirenèus» en occitano.</description>
+    </item>
+    
+  </channel>
+</rss>
